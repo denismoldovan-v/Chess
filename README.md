@@ -28,7 +28,7 @@
 
 ## 🖥️ Screenshots
 
-_Add your own screenshot here:_
+
 
 ```markdown
 ![Chess Game Screenshot](link-to-your-screenshot.png)
