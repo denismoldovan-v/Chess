@@ -31,5 +31,3 @@
 
 
 ```markdown
-![Chess Game Screenshot](link-to-your-screenshot.png)
-
