@@ -26,8 +26,5 @@
 
 ---
 
-## 🖥️ Screenshots
-
-
 
 ```markdown
